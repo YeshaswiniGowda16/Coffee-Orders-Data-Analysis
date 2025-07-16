@@ -33,24 +33,6 @@ bash
 Copy
 Edit
 
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Coffee-Orders-Data-Analysis.git
-Open the Excel file in Microsoft Excel or a compatible application.
-
-Explore the worksheets for analysis and visualizations.
-
-📊 Sample Insights
-☕️ Most ordered coffee: Latte
-
-🕑 Peak time: 8 AM – 10 AM
-
-📈 Top revenue day: Friday
-
-(These are placeholders—update them based on your actual analysis)
-
 📌 Future Improvements
 Add Python/Pandas analysis for advanced insights
 
