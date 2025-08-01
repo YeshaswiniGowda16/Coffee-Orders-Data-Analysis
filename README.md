@@ -7,7 +7,7 @@ This repository contains a data analysis project performed on a dataset of coffe
 ## 📦 Project Overview
 
 - **Dataset**: `Coffee Orders Data analysis in MsExcel.xlsx`
-- **Tools Used**: Microsoft Excel
+- **Tools Used**: Microsoft Excel, Microsoft Power Query
 - **Analysis Performed**:
   - Cleaning and preprocessing of raw data
   - Pivot tables for summarizing data
